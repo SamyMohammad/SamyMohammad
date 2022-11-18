@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Samy Mohammad</h1>
 <h3 align="center">A passionate flutter developer from Egypt</h3>
