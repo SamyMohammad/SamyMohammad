@@ -17,10 +17,6 @@
 
 - ⚡ Fun fact **I love turning complex ideas into simple, elegant Flutter UIs — and I enjoy teaching others how to do the same!**
 
-- 👨‍💻 All of my projects are available at **[https://samy-flutter-folio-art.lovable.app/](https://samy-flutter-folio-art.lovable.app/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1tfMWP9JfXA7EUgabpFJnjgW1shymLmN2/view?usp=sharing](https://drive.google.com/file/d/1tfMWP9JfXA7EUgabpFJnjgW1shymLmN2/view?usp=sharing)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/SamyMohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SamyMohammad" height="30" width="40" /></a>
