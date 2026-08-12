@@ -13,7 +13,7 @@
 
 I build production-grade **Flutter** apps end to end — from Figma to App Store — using Clean Architecture, and I split my time across three tracks:
 
-- 💻 **Flutter Development** — Full-time Flutter Developer at **Metas Architecture Research Studio**, shipping production apps with Clean Architecture (MVVM/MVC), BLoC/Riverpod, Firebase, and Supabase.
+- 💻 **Flutter Development** — Full-time Flutter Developer at **Metas Architecture Research Studio**, shipping production apps with Clean Architecture (MVVM/MVC/MVI), BLoC/Riverpod, Firebase, and Supabase.
 - 🎓 **Flutter Instruction** — Part-time Flutter Instructor at **Route**, teaching developers how to build real apps the right way.
 - 🚀 **Product / SaaS Founder** — Running my own software house, building SaaS products for the **Egyptian and MENA markets**.
 
