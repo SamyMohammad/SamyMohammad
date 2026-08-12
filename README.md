@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="900">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Samy+Mohammad+%F0%9F%91%8B;Senior+Flutter+Developer;Flutter+Instructor;SaaS+Founder+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Samy+Mohammad+%F0%9F%91%8B;Senior+Flutter+Developer;Flutter+Instructor+%F0%9F%8E%93" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
 
@@ -22,17 +22,16 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="280">
 
-I build production-grade **Flutter** apps end to end — from Figma to App Store — and split my time across three tracks:
+I build production-grade **Flutter** apps end to end — from Figma to App Store — using Clean Architecture, and I split my time across two tracks:
 
 - 💻 **Flutter Development** — Full-time Flutter Developer at **Metas Architecture Research Studio**, shipping apps with Clean Architecture (MVVM/MVC), BLoC/Riverpod, Firebase, and Supabase.
 - 🎓 **Flutter Instruction** — Part-time Flutter Instructor at **Route**, teaching developers how to build real apps the right way.
-- 🚀 **Product / SaaS Founder** — Running my own software house, building SaaS products for the **Egyptian and MENA markets**.
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
 
@@ -41,15 +40,37 @@ I build production-grade **Flutter** apps end to end — from Figma to App Store
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**Architecture & Practices:** `Clean Architecture (MVVM, MVC)` `BLoC` `Riverpod` `SOLID` `Design Patterns` `TDD` `DI`
-**Local Storage:** `Hive` `SQLite` `Drift` `Secure Storage`
-**Integrations:** `Payment Gateways` `Google Maps` `Pusher (real-time)` `Fastlane`
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
+
+**🧠 Programming Foundations**
+`OOP` `SOLID Principles` `Design Patterns` `Data Structures` `TDD (Test-Driven Development)`
+
+**📱 Flutter & Architecture**
+`Clean Architecture (MVVM, MVC)` `BLoC` `Riverpod` `GoRouter` `Dependency Injection (DI)`
+
+**🌐 Networking & APIs**
+`REST APIs` `Dio` `Retrofit` `GraphQL`
+
+**🔥 Firebase**
+`Authentication` `Firestore` `Cloud Messaging (FCM)` `Storage`
+
+**💾 Local Storage & Persistence**
+`Hive` `SQLite` `Drift` `SharedPreferences` `Secure Storage`
+
+**💳 Integrations**
+`Payment Gateway Integration` `Google Maps` `Pusher (Real-time)`
+
+**⚙️ Backend as a Service**
+`Firebase` `Supabase`
+
+**🔧 Tooling & DevOps**
+`Git / GitHub` `CI/CD (GitHub Actions, Fastlane)` `Figma-to-Flutter Workflows`
 
 ---
 
@@ -92,8 +113,6 @@ I build production-grade **Flutter** apps end to end — from Figma to App Store
 <div align="center">
 <img src="https://raw.githubusercontent.com/SamyMohammad/SamyMohammad/output/github-contribution-grid-snake.svg" width="850">
 </div>
-
-> ⚙️ *The animated contribution snake above needs a one-time GitHub Action set up in your repo — instructions below.*
 
 ---
 
