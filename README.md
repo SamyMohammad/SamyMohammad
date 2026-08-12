@@ -52,7 +52,10 @@ I build production-grade **Flutter** apps end to end — from Figma to App Store
 `OOP` `SOLID Principles` `Design Patterns` `Data Structures` `TDD (Test-Driven Development)`
 
 **📱 Flutter & Architecture**
-`Clean Architecture (MVVM, MVC)` `BLoC` `Riverpod` `GoRouter` `Dependency Injection (DI)`
+`Clean Architecture (MVVM, MVC)` `Modular / Feature-based Architecture` `BLoC` `Riverpod` `GoRouter` `Dependency Injection (DI)`
+
+**🚀 Code Quality & Engineering Practices**
+`Performance Optimization` `Refactoring` `Code Review`
 
 **🌐 Networking & APIs**
 `REST APIs` `Dio` `Retrofit` `GraphQL`
