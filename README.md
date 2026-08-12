@@ -90,7 +90,7 @@ I build production-grade **Flutter** apps end to end — from Figma to App Store
 ### 📈 Activity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="850">
+<img src="https://raw.githubusercontent.com/SamyMohammad/SamyMohammad/output/github-contribution-grid-snake.svg" width="850">
 </div>
 
 > ⚙️ *The animated contribution snake above needs a one-time GitHub Action set up in your repo — instructions below.*
