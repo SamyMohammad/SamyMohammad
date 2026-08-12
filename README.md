@@ -101,7 +101,7 @@ I build production-grade **Flutter** apps end to end — from Figma to App Store
 
 ### 🎓 Background
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img align="left" src="assets/flutter-animation.svg" width="120">
 
 - 🎓 B.Sc. in Computers & Information Technology (Software Engineering) — Kafr El-Sheikh University, 2015–2019
 - 📜 Route Certificate — Flutter Training
