@@ -1,28 +1,74 @@
-# Hi 👋, I'm Samy Mohammad
+<h1 align="center">Hi, I'm Samy Mohammad 👋</h1>
+<h3 align="center">Senior Flutter Developer · Instructor · Solo Founder</h3>
 
-### An experienced Dart developer
-
-- 🔭 I'm currently working on **Building scalable Flutter applications following Clean Architecture principles and mentoring developers to write maintainable, testable code.**
-
-- 🌱 I'm currently learning **System Design for mobile applications, advanced state management with Riverpod, and performance optimization in Flutter.
-**
-
-- 👯 I'm looking to collaborate on **Open-source Flutter projects, UI/UX-driven mobile apps, and tools that improve developer productivity.**
-
-- 🤝 I'm looking for help with **Exploring advanced system design patterns in Flutter and integrating backend services efficiently.**
-
-- 💬 Ask me about **Flutter, Dart, Clean Architecture, State Management (Cubit & Riverpod), and building high-quality mobile apps.**
-
-- 📫 How to reach me **samy.elmenshawy96@gmail.com**
-
-- ⚡ Fun fact **I love turning complex ideas into simple, elegant Flutter UIs — and I enjoy teaching others how to do the same!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/SamyMohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SamyMohammad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Samy Mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Samy Mohammad" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/samy-mohammad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Alexandria%2C%20Egypt-informational" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20years-success" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/xd" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40"/> </a></p>
+---
 
+### 🧭 What I do
+
+I build production-grade **Flutter** apps end to end — from Figma to App Store — using Clean Architecture, and I split my time across three tracks:
+
+- 💻 **Flutter Development** — Full-time Flutter Developer at **Metas Architecture Research Studio**, shipping production apps with Clean Architecture (MVVM/MVC), BLoC/Riverpod, Firebase, and Supabase.
+- 🎓 **Flutter Instruction** — Part-time Flutter Instructor at **Route**, teaching developers how to build real apps the right way.
+- 🚀 **Product / SaaS Founder** — Running my own software house, building SaaS products for the **Egyptian and MENA markets**.
+
+---
+
+### 🛠️ Tech Stack
+
+**Language & Architecture**
+`Dart` `OOP / SOLID` `Design Patterns` `Data Structures` `Clean Architecture (MVVM, MVC)` `TDD`
+
+**Flutter Ecosystem**
+`BLoC` `Riverpod` `GoRouter` `Dependency Injection`
+
+**Backend & Data**
+`Firebase (Auth, Firestore, FCM, Storage)` `Supabase` `REST APIs (Dio, Retrofit)` `GraphQL` `Hive` `SQLite` `Drift` `Secure Storage`
+
+**Integrations**
+`Payment Gateways` `Google Maps` `Pusher (real-time)`
+
+**Tooling & DevOps**
+`Git / GitHub` `CI/CD (GitHub Actions, Fastlane)` `Figma-to-Flutter workflows`
+
+---
+
+### 📱 Featured Projects
+
+| Project | Description |
+|---|---|
+| **Aqar Inn** | Real estate investment app for the Saudi market |
+| **Roger** | Multi-vendor e-commerce platform (Saudi Arabia) |
+| **Guardian Angel** | Multi-role nursery management app with Pusher real-time features |
+| **Bawabat** | Event management & ticketing app (built at Metas) |
+| **Hecta** | Two-sided service marketplace app |
+| **Meta Bulk** | WhatsApp automation tool (Flutter + Dio) serving 1,000+ clients |
+| **Growth Vista** | Task & project management app built for Giza Systems |
+| **Clinic Management System** | Healthcare operations app with Supabase backend |
+| **NanoSoft** | HR management system |
+| **X Media** | Internal HR / job-posting app |
+| **Warda** | Floral e-commerce app |
+
+*Contributed to 10+ production Flutter apps across real estate, e-commerce, healthcare, HR, and marketplace domains.*
+
+---
+
+### 🎓 Background
+
+- 🎓 B.Sc. in Computers & Information Technology (Software Engineering) — Kafr El-Sheikh University, 2015–2019
+- 📜 Route Certificate — Flutter Training
+- 📜 Algoriza Certificate — Flutter Internship
+
+---
+
+### 📫 Let's connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/samy-mohammad"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/SamyMohammad"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github" /></a>
+</p>
